@@ -2,7 +2,7 @@
 Visualization of Air Quality Index (AQI) and fires in Northern California between 2002 and 2020.
 
 **Files:**   
-  In the GIFS file there are two .gif animations, one for San Jose and one for Sacramento.  
+  In the GIFS file there are two .gif animations, one for San Jose and one for Sacramento (https://github.com/sfamacochrane/aqi-fires-california/blob/main/GIFS/Sacramento.gif).  
   The Data file contains the .csv files which run in the python code to create the GIFS. AQI data came from the EPA (https://aqs.epa.gov/aqsweb/airdata/download_files.html#AQI), and fire data came from wikipedia for each year (for example, https://en.wikipedia.org/wiki/2020_California_wildfires).   
   The Python code file contains jupyter notebooks with code for San Jose and Sacramento, and for both cities (1) a version that creates a gif (ends in GIF) and (2) a version that makes an animation in the jupyter notebook environment ('ANIMATION'). 
 
